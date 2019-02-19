@@ -22,6 +22,7 @@ Coud you solve it without converting the integer to a string?
 
 */
 
+
 import java.util.ArrayList;
 
 public class PalindromeNumber009 {
